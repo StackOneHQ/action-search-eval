@@ -13,3 +13,4 @@ model_cache/
 .DS_Store
 _internal/
 candidates/
+holdout_days*
